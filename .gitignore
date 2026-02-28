@@ -1,0 +1,17 @@
+# OS / cache
+.DS_Store
+__pycache__/
+*.pyc
+
+# Virtual environments
+plant_env/
+.venv/
+venv/
+
+# Large local datasets and archives
+Plant-disease-recognition-dataset/
+Plant-disease-recognition-dataset.zip
+Plant_Disease_Dataset/
+
+# Optional local artifacts
+*.log

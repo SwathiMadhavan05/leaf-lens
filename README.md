@@ -1,3 +1,4 @@
+LeafLens
 LeafLens is a Streamlit-based plant leaf health analysis app that classifies uploaded leaf images as healthy or diseased and returns treatment-oriented guidance. The project combines classical digital image processing, handcrafted feature extraction, and a pre-trained machine learning classifier for fast browser-based diagnosis.
 
 Overview
@@ -166,3 +167,5 @@ Improve model monitoring and evaluation reporting
 Add mobile-friendly capture and multilingual support
 Acknowledgments
 LeafLens was built as a plant disease detection project combining digital image processing, classical machine learning, and Streamlit deployment for accessible agricultural decision support.
+
+
